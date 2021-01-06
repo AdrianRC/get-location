@@ -1,2 +1,0 @@
-# get-location
-Begin app
